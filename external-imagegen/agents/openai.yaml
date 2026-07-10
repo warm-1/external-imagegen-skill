@@ -1,0 +1,4 @@
+interface:
+  display_name: "External Image Generator"
+  short_description: "Generate images through an external compatible API"
+  default_prompt: "Use $external-imagegen to generate an image from my prompt."
